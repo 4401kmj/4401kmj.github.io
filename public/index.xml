@@ -79,6 +79,14 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
+      <title>Golf</title>
+      <link>http://localhost:1313/hobby/golf/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hobby/golf/</guid>
+      <description>&lt;p&gt;I recently started playing golf! Although I couldn’t bring my clubs to San Diego, I might get a new set soon..&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Sports Climbing</title>
       <link>http://localhost:1313/hobby/climbing/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
@@ -104,7 +112,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
   &lt;source src=&#34;http://localhost:1313/hobby/climbing/climbing.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 
-I really enjoy sports climbing, particularly bouldering!! This is my very first hobby that I do at least once a week.&lt;/p&gt;</description>
+I really enjoy climbing, especially bouldering.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -112,7 +120,7 @@ I really enjoy sports climbing, particularly bouldering!! This is my very first 
       <link>http://localhost:1313/hobby/pilates/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hobby/pilates/</guid>
-      <description>&lt;p&gt;I recently started pilates to enhance my core and flexibility!&lt;/p&gt;</description>
+      <description>&lt;p&gt;I once did pilates for core and flexibility — it was fun, though I don’t practice it much now.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -227,7 +235,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       <link>http://localhost:1313/hobby/youtube/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hobby/youtube/</guid>
-      <description>&lt;p&gt;I occasionally upload vlogs to my YouTube channel! Feel free to watch and comment on them.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I occasionally upload vlogs to my YouTube channel. Feel free to watch and leave a comment!&lt;/p&gt;</description>
     </item>
     
     <item>

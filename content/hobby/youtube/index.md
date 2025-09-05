@@ -7,7 +7,6 @@ tags:
   - Media
 ---
 
-I occasionally upload vlogs to my YouTube channel! Feel free to watch and comment on them.
-
+I occasionally upload vlogs to my YouTube channel. Feel free to watch and leave a comment!
 
 <!--more-->

@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Incoming PhD Student
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:4401kmj@kaist.ac.kr'
+    url: 'mailto:mik118@ucsd.edu'
     label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=oVoPChoAAAAJ&hl=ko
@@ -46,17 +46,15 @@ interests:
   - Visual system
 
 education:
-  - area: PhD Biological Sciences (incoming)
+  - area: PhD in Biological Sciences
     institution: University of California San Diego (UCSD)
     date_start: 2025-09-22
 
-  - area: BS Bio and Brain Engineering
+  - area: BS in Bio and Brain Engineering
     institution: Korea Advanced Institute of Science and Technology (KAIST)
     date_start: 2017-02-28
     date_end: 2024-08-28
     summary: |
-      GPA: 3.97 / 4.3 (Major GPA : 4.11 / 4.3)
-
       Courses include:
         - Statistics / Linear algebra
         - Biomedical statistics & Statistical learning 
@@ -73,13 +71,13 @@ work:
     summary: |
       • Advisor: Prof. Se-Bum Paik
 
-      • Study of early visualpathway’s functional role using deep neural network (DNN)
+      • Study of early visual pathway’s functional role using deep neural networks (DNNs)
 
       • Examine whether inherent receptive fields enable general object recognition
 
-      • Incorporated Gabor filters in the first layer of DNN to model biological brains
+      • Incorporated Gabor filters in the first layer of DNN to model biological visual system
 
-      • Showed our model recognizes objects under dynamic domain shifts through shape-biased feature encoding
+      • Showed our model recognizes objects under dynamic domain shifts through shape-biased features
   
   - position: Brain and Machine Intelligence Lab
     company_name: Undergraduate Research Intern
@@ -94,7 +92,7 @@ work:
       • Examine whether MB system would also use temporal difference to estimate
       drifting rewards and generate reward prediction error (MB-RPE)
 
-      • Designed foraging tasks, conducted human behavior experiments
+      • Designed foraging tasks, conducted human behavioral experiments
 
       • Analyzed fMRI data, found significant MB-RPE signals from prefrontal cortex
   - position: Developmental Cognitive Neuroscience Lab
@@ -105,7 +103,7 @@ work:
     summary: |
       • Advisor: Prof. Sang Ah Lee
 
-      • Study of prefrontal cortex subregions’ temporal dynamics duringworkingmemory
+      • Study of prefrontal cortex subregions’ temporal dynamics during working memory
       using fNIRS
 
       • Designed working memory task, conducted human behavior experiments
@@ -119,7 +117,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Softwares
+  - name: Software
     items:
       - name: MATLAB
         description: ''
@@ -167,7 +165,7 @@ awards:
     summary: |
       I received the Best Presentation Award from the 2020 Korean Society for Cognitive & Biological Psychology (KSCBP)!
 
-      The Poster presentation was substituted to recoreded-video due to COVID-19
+      The Poster presentation was replaced by a recoreded-video due to COVID-19
 ---
 
 ## About Me

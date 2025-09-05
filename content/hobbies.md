@@ -19,6 +19,6 @@ sections:
       view: article-grid
       fill_image: false
       columns: 2
-      rows: 2
+      rows: 3
 ---
 

@@ -6,7 +6,7 @@ tags:
   - Sports
 ---
 {{< video src="climbing.mp4" controls="yes" >}}
-I really enjoy sports climbing, particularly bouldering!! This is my very first hobby that I do at least once a week. 
+I really enjoy climbing, especially bouldering.
 
 
 <!--more-->
