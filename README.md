@@ -1,9 +1,9 @@
-# minjun.info
+# Personal Website
 
 Welcome to my personal website! This site serves as a portfolio of my research, projects, and professional background.
 
 ## Website Overview
-**URL:** [minjun.info](https://minjun.info)
+**URL:** [4401kmj.github.io](https://4401kmj.github.io)
 
 This website includes:
 - **About Me**: A brief introduction to my academic background and research interests.
