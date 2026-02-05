@@ -42,12 +42,12 @@ profiles:
 
 interests:
   - Computational Neuroscience
-  - Neuro-inspired AI
-  - Visual system
+  - Cognitive modeling
+  - Brain-inspired AI
 
 education:
   - area: PhD in Biological Sciences
-    institution: University of California San Diego (UCSD)
+    institution: University of California San Diego
     date_start: 2025-09-22
 
   - area: BS in Bio and Brain Engineering
@@ -169,7 +169,7 @@ awards:
 ---
 
 ## About Me
-*In September 2025, I will begin my PhD in [Biological Sciences](https://biology.ucsd.edu/) at [UC San Diego](https://www.ucsd.edu/)!*
+Hi! I'm a PhD Student in [Biological Sciences](https://biology.ucsd.edu/) at [UC San Diego](https://www.ucsd.edu/)!
 
 My research focuses on **<u>mathematical modeling of cognitive functions</u>**, exploring how the brain's unique representations emerge and give rise to complex behaviors. You can find more details in the [Publications](/#papers) section.
 

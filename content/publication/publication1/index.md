@@ -4,10 +4,10 @@ authors:
 - admin
 - Seungdae Baek
 - Se-Bum Paik
-date: "2024-10-02"
+date: "2026-01-30"
 doi: ""
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-07-01"
+publishDate: "2026-01-30"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -15,12 +15,12 @@ publishDate: "2024-07-01"
 # publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*bioRxiv*"
+publication: "*Patterns*"
 # publication_short: ""
 
-abstract: Continuously learning new information is a fundamental ability of animals but a challenging problem for conventional deep neural networks (DNNs), which suffer from catastrophic forgetting. Unlike DNNs, whose early layers change depending on training images, the brain’s early visual pathway has innate Gabor-like receptive fields that are stably maintained throughout a lifetime. Here, we demonstrate that fixing early layers of DNNs using Gabor filters, resembling the primary visual cortex (V1) cells’ receptive fields, enables continual learning under dynamic environments. We first showed that networks with fixed Gabor filters maintained the previous performance even when sequentially trained on a completely different image domain, alleviating catastrophic forgetting. Moreover, representation analysis revealed that fixed Gabor filters enabled networks to have similar representations across different domains, which may enable networks to adapt better to continuous learning. Together, Gabor filters in early layers could serve as key architectures for continual learning, highlighting the functional significance of stable early visual pathways in brains.
+abstract: Biological brains can effortlessly adapt to continuously changing stimulus environments, whereas conventional deep neural networks (DNNs) remain highly susceptible to domain shifts. Here, we demonstrate that static, hard-wired receptive fields, which spontaneously emerge in the early visual pathway, facilitate environment-agnostic object recognition in the brain. To test this mechanism, we introduced pre-developed Gabor filters in the early layers of DNNs, keeping them fixed during training. Despite the reduced learning flexibility, our networks exhibited robust continual learning capabilities under significant domain shifts, unlike conventional DNNs, which fail to generalize under similar conditions. Our network achieved generalized representations across domains in the latent space, while conventional DNNs only captured domain-specific variance. The static visual filters helped prevent local texture biases, leading to shape-based perception similar to that of primates. These findings highlight an intrinsic biological strategy that enables reliable continual learning in dynamic and unpredictable environments.
 
-publication_types: ["preprint"]
+publication_types: ["journal"]
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -32,8 +32,8 @@ publication_types: ["preprint"]
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1101/2024.09.30.615752
-url_main: https://doi.org/10.1101/2024.09.30.615752
+url_pdf: https://www.cell.com/patterns/pdf/S2666-3899(25)00323-X.pdf
+url_main: https://www.cell.com/patterns/fulltext/S2666-3899(25)00323-X
 # url_main: /publication/publication1
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: ''
