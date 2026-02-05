@@ -7,6 +7,8 @@
 title: Minjun Kang
 # Website URL
 baseURL: 'https://4401kmj.github.io/'
+relativeURLs: false
+canonifyURLs: true
 
 ############################
 ## LANGUAGE
